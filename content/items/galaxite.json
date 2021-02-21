@@ -1,0 +1,12 @@
+{
+  "name": "Galaxite",
+  "description": "An extremly powerful and unestable material, not recomended for construction",
+  "details": "[scarlet]Warning:[] Must be handled with extreme precaution, this material is prone to explode\n on minimal impact",
+  "hardness": 1,
+  "explosiveness": 10,
+  "radioactivity": 10,
+  "flammability": 0,
+  "charge": 0,
+  "color": "117711",
+  "research": "phase-fabric"
+}

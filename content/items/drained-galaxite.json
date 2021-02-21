@@ -1,0 +1,12 @@
+{
+  "name": "Drained Galaxite",
+  "description": "Galaxite that has been drained from it's radioactive energy",
+  "details": "After removing it's radioactivity, it's molecular structure changes to become extremly durable.\nIs currently unknown how this happens",
+  "hardness": 10,
+  "explosiveness": 0,
+  "radioactivity": 0.1,
+  "flammability": 0,
+  "charge": 0,
+  "color": "11AA11",
+  "research": "galaxite"
+}

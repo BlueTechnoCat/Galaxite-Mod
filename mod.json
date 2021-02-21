@@ -1,0 +1,8 @@
+{
+  "name": "galaxite-mod",
+  "displayName": "Galaxite Mod",
+  "description": "Adds a new radiocative material for energy generation",
+  "author": "BlueTechno",
+  "version": "0.1",
+  "minGameVersion": 105
+}
