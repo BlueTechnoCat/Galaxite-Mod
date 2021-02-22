@@ -5,6 +5,7 @@
   "size": 3,
   "health": 950,
   "hasLiquids": true,
+  "craftTime": 120,
   "consumes": {
     "items": {
       "items": [

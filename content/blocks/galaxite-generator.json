@@ -1,0 +1,34 @@
+{
+  "type": "GenericSmelter",
+  "name": "Galaxite Generator",
+  "description": "A machine capable of forging galaxite",
+  "details": "Your greatest invention,\nwhat has the future prepared for you?",
+  "size": 3,
+  "health": 800,
+  "hasLiquids": true,
+  "craftTime": 300,
+  "consumes": {
+    "power": 250,
+    "items": {
+      "items": [
+        "thorium/4",
+        "titanium/4",
+        "silicon/2",
+        "plastanium/3"
+      ]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": "0.25"
+    }
+  },
+  "outputItem": "galaxite/1",
+  "research": "alloy-smelter",
+  "requirements": [
+    "lead/850",
+    "graphite/700",
+    "titanium/550",
+    "surge-alloy/450",
+    "plastanium/400"
+  ]
+}
