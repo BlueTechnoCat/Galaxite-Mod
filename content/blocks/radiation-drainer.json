@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter",
   "name": "Radiation Drainer", //For lack of  better name...
-  "description": "A building capable of extracting the radiation from galaxite and using it to produce energy, requires heavy cooling",
+  "description": "A building capable of extracting the radiation from galaxite, requires heavy cooling",
   "size": 3,
   "health": 950,
   "hasLiquids": true,
@@ -9,6 +9,7 @@
   "itemCapacity": 30,
   "liquidCapacity": 60,
   "consumes": {
+    "power": 16.7,
     "items": {
       "items": [
         "galaxite/1"
@@ -20,8 +21,6 @@
     }
   },
   "outputItem": "drained-galaxite/1",
-  "hasPower": true,
-  "powerProduction": 1000,
   "research": "galaxite-generator",
   "requirements": [
     "titanium/315",

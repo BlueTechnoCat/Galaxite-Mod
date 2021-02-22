@@ -10,7 +10,7 @@
   "liquidCapacity": 40,
   "craftTime": 300,
   "consumes": {
-    "power": 250,
+    "power": 25,
     "items": {
       "items": [
         "thorium/4",
