@@ -6,6 +6,8 @@
   "size": 3,
   "health": 800,
   "hasLiquids": true,
+  "itemCapacity": 20,
+  "liquidCapacity": 40,
   "craftTime": 300,
   "consumes": {
     "power": 250,

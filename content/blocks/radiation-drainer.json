@@ -6,19 +6,21 @@
   "health": 950,
   "hasLiquids": true,
   "craftTime": 120,
+  "itemCapacity": 30,
+  "liquidCapacity": 60,
   "consumes": {
     "items": {
       "items": [
         "galaxite/1"
       ]
     },
-    "liquid": {     
-        "liquid": "cryofluid",
-        "amount": "0.5"
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": "0.5"
     }
   },
   "outputItem": "drained-galaxite/1",
-  "outputsPower": true,
+  "hasPower": true,
   "powerProduction": 1000,
   "research": "galaxite-generator",
   "requierements": [
