@@ -23,7 +23,7 @@
   "hasPower": true,
   "powerProduction": 1000,
   "research": "galaxite-generator",
-  "requierements": [
+  "requirements": [
     "titanium/315",
     "thorium/250",
     "lead/650",
