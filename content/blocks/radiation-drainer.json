@@ -21,12 +21,12 @@
   "outputsPower": true,
   "powerProduction": 1000,
   "research": "galaxite-generator",
-  "requierements": 
-  [
+  "requierements": [
     "titanium/315",
     "thorium/250",
     "lead/650",
     "phase-fabric/200",
     "surge-alloy/200"
-  ]
+  ],
+  "category": "crafting"
 }
