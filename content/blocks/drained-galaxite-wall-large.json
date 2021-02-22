@@ -2,6 +2,7 @@
   "type": "Wall",
   "name": "Drained Galaxite Wall Large",
   "description": "A wall made of drained galaxite making use of it's resistance, can deflect bullets. Spans multiple tiles",
+  "size": 2,
   "health": "12000",
   "chanceDeflect": 40,
   "flashHit": true,
