@@ -1,0 +1,31 @@
+{
+  "type": "ImpactReactor",
+  "name": "Giga Radiation Reactor",
+  "description": "Uses galaxite radiation to generate a lot of energy but requires extreme cooling to work",
+  "size": 5,
+  "health": 1350,
+  "powerProduction": 300,
+  "itemDuration": 125,
+  "ambientSound": "pulse",
+  "consumes": {
+    "power": 40,
+    "items": {
+      "items": [
+        "galaxite/1"
+      ]
+    },
+    "liquid": {
+        "liquid": "radiant-coolant",
+        "amount": "0.25"      
+    }
+  },
+  "requirements": [
+    "silicon/1025",
+    "titanium/950",
+    "thorium/560",
+    "surge-alloy/345",
+    "phase-fabric/400"
+  ],
+  "research": "impact-reactor",
+  "category": "power"
+}

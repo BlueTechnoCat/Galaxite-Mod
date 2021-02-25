@@ -1,0 +1,30 @@
+{
+  "type": "LiquidConverter",
+  "name": "Radiant Coolant Mixer",
+  "description": "Uses plastanium and cryofluid to create radiant coolant",
+  "health": 850,
+  "size": 2,
+  "craftTime": 60,
+  "consumes": {
+    "power": 1.1,
+    "items": {
+      "items": [
+        "plastanium/2"
+      ]
+    },
+    "liquid": {
+      "liquid": "cryofluid",
+      "amount": 0.6
+    }
+  },
+  "requirements": [
+    "lead/780",
+    "metaglass/550",
+    "silicon/475",
+    "graphite/450",
+    "titanium/325"
+
+  ],
+  "outputLiquid": "radiant-coolant/0.6",
+  "category": "crafting"
+}

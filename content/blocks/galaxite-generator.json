@@ -18,17 +18,13 @@
         "silicon/2",
         "plastanium/3"
       ]
-    },
-    "liquid": {
-      "liquid": "cryofluid",
-      "amount": "0.25"
     }
   },
   "outputItem": "galaxite/1",
   "research": "alloy-smelter",
   "requirements": [
     "lead/850",
-    "graphite/700",
+    "silicon/700",
     "titanium/550",
     "surge-alloy/450",
     "plastanium/400"

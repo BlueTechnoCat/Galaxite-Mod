@@ -1,10 +1,11 @@
 {
   "type": "Wall",
   "name": "Drained Galaxite Wall",
-  "description": "A wall made of drained galaxite making use of it's resistance, can deflect bullets",
+  "description": "A wall made of drained galaxite making use of it's resistance, can deflect bullets and absorb lasers",
   "health": "3000",
   "chanceDeflect": 25,
   "flashHit": true,
+  "absorbLasers": true,
   "requirements": [
     "drained-galaxite/6"
   ],

@@ -1,0 +1,10 @@
+{
+  "name": "Radiant Coolant",
+  "description": "An extremly cold liquid, used for cooling radiation related machines",
+  "details": "It's rare capability of becoming colder the more radiation it recives makes it perfect to cooldown galaxite related reactors",
+  "temperature": 0.1,
+  "heatCapacity": 1.8,
+  "effect": "freezing",
+  "color": "2fc688",
+  "research": "cryofluid"
+}
