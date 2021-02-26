@@ -14,5 +14,6 @@
 		"thorium/6000",
 		"drained-galaxite/3000"
 	],
+	"research": "core-nucleus",
 	"category": "effect"
 }
