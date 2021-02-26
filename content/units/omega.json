@@ -1,5 +1,5 @@
 {
-  "type": "BuilderDrone",
+  "type": "flying",
   "name": "Omega",
   "description": "Defends the Radiant core from enemies. Builds structures",
   "isCounted": false,
