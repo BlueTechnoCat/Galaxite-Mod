@@ -1,0 +1,18 @@
+{
+	"type": "CoreBlock",
+	"name": "Core: Radiant",
+	"description": "A new iteration of the core, using galaxite to make it incredibly durable",
+	"itemCapacity": 25000,
+	"health": 13000,
+	"size": 6,
+	"researchCostMultiplier": 0.08,
+	"unitType": "omega",
+	"requirements": [
+		"copper/11000",
+		"lead/11000",
+		"silicon/8000",
+		"thorium/6000",
+		"drained-galaxite/3000"
+	],
+	"category": "effect"
+}

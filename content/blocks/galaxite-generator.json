@@ -5,10 +5,9 @@
   "details": "Your greatest invention,\nwhat has the future prepared for you?",
   "size": 3,
   "health": 800,
-  "hasLiquids": true,
+  "hasLiquids": false,
   "itemCapacity": 20,
-  "liquidCapacity": 40,
-  "craftTime": 300,
+  "craftTime": 240,
   "consumes": {
     "power": 25,
     "items": {

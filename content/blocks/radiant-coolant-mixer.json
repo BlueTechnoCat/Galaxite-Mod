@@ -26,5 +26,6 @@
 
   ],
   "outputLiquid": "radiant-coolant/0.6",
+  "research": "cryofluid-mixer",
   "category": "crafting"
 }
