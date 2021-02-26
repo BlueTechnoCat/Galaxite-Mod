@@ -6,6 +6,7 @@
 	"health": 13000,
 	"size": 6,
 	"researchCostMultiplier": 0.08,
+	"unitCapModifier": 32,
 	"unitType": "omega",
 	"requirements": [
 		"copper/11000",
