@@ -8,5 +8,7 @@
   "flammability": 0,
   "charge": 0,
   "color": "1111CC",
-  "research": "phase-fabric"
+  "research": {
+    "parent": "phase-fabric"
+  }
 }
