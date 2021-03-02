@@ -1,0 +1,67 @@
+{
+	"type": "ItemTurret",
+	"name": "Nuclear Siege",
+	"description": "An advanced version of the ripple, with higher range and capable of using radioactive material as ammo",
+	"details": "After uncountables tests, you manage to improve on the ripple technology to make it stronger. Still can't target air units but that doesn't matter",
+	"health": 1400,
+	"size": 3,
+	"reloadTime": 55,
+	"inaccuracy": 9,
+	"targetAir": false,
+	"shootSound": artillery,
+	"range": 320,
+	"minRange": 35,
+	"ammoEjectBack": 5,
+	"shots": 4,
+	"ammoUseEffect": "casing3Double",
+	"ammoTypes": {
+	
+		"silicon": "artilleryHoming",
+		
+		"plastanium": "artilleryPlastic",
+		
+		"blast-compound": "artilleryExplosive",
+		
+		"thorium": 
+		{
+			"type": "ArtilleryBulletType",
+			"damage": 30,
+			"splashDamage": 65,
+			"splashDamageRadius": 40,
+			"ammoMultiplier": 4,
+			"knockback": 0.8,
+			"speed": 2
+			"lifetime": 160,
+			"despawnEffect": "bigShockwave",
+			"width": 13,
+			"height": 13
+		},
+		
+		"galaxite": 
+		{
+			"type": "ArtilleryBulletType",
+			"damage": 60,
+			"splashDamage": 140,
+			"splashDamageRadius": 100,
+			"ammoMultiplier": 3,
+			"knockback": 1,
+			"backColor": "001177",
+			"frontColor": "0011CC",
+			"speed": 3,
+			"lifetime": 106,
+			"hitEffect": "nuclearShockwave",
+			"despawnEffect": "nuclearcloud",
+			"width": 15,
+			"height": 15
+		}
+	},
+	"requirements": [
+		"copper/200",
+		"graphite/185",
+		"titanium/90",
+		"thorium/75",
+		"drained-galaxite/60"
+	]
+	"research": "ripple",
+	"category": "turret",
+}
