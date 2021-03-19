@@ -12,7 +12,8 @@
 	"targetAir": false,
 	"weapons": [
 		{
-			"name": "chopper-cannon",			
+			"name": "chopper-cannon",
+			"mirror": false,
 			"top": false,
 			"x": 0,
 			"y": 7,
@@ -24,6 +25,7 @@
 				"damage": 130,
 				"width": 11,
 				"height": 22,
+				"lifetime": 100,
 				"splashDamage": 75,
 				"splashDamageRadius": 28
 			}

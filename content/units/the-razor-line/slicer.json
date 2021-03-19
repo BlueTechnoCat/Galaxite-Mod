@@ -29,7 +29,7 @@
 				"shootEffect": "shootSmall",
 				"orbSize": 4,
 				"knockback": 1,
-				"firstShotDelay": 5
+				"firstShotDelay": 10
 			}
 		},
 		{
