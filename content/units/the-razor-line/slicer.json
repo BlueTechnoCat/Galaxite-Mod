@@ -1,15 +1,53 @@
 {
 	"type": "mech",
 	"name": "Slicer",
-	"description": "",
+	"description": "This unit has the ability to burn it's enemies with it's slag-oil combo shooters.",
 	"speed": 0.6,
+	"immunities": "burning",
 	"health": 900,
 	"hitSize": 13,
 	"itemCapacity": 60,
-	"targetAir": "",
 	"weapons": [
 		{
-			"name": ""
+			"name": "slag-cannon",
+			"x": 9,
+			"y": 1,
+			"ejectEffect": "none",
+			"reload": 10,
+			"shootSound": "flame",
+			"mirror": false,
+			"bullet": {
+				"type": "LiquidBulletType",
+				"liquid": "slag",
+				"damage": 80,
+				"speed": 2.5,
+				"lifetime": 90,
+				"drag": 0.01,
+				"shootEffect": "shootSmall",
+				"orbSize": 7,
+				"knockback": 1,
+				"firstShotDelay": 2.5
+			}
+		},
+		{
+			"name": "oil-cannon",
+			"x": -9,
+			"y": 1,
+			"ejectEffect": "none",
+			"reload": 10,
+			"shootSound": "spray",
+			"mirror": false,
+			"bullet": {
+				"type": "LiquidBulletType",
+				"liquid": "oil",
+				"damage": 70,
+				"speed": 2.5,
+				"lifetime": 90,
+				"drag": 0.01,
+				"shootEffect": "shootSmall",
+				"orbSize": 7,
+				"knockback": 1
+			}
 		}
 	],
 	"research": "cutter"

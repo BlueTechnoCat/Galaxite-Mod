@@ -1,9 +1,9 @@
 {
 	"type": "mech",
 	"name": "Chopper",
-	"description": "",
+	"description": "Oddly enough, this giant unit is capable of flight, and when it does it can throw bombs over it's enemies.",
 	"speed": 0.5,
-	"health": 12000
+	"health": 12000,
 	"armor": 11,
 	"canDrown": false,
 	"hitSize": 20,

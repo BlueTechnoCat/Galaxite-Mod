@@ -16,5 +16,5 @@
 			"bullet": "standardDense"
 		}
 	],
-	research: dagger
+	"research": "dagger"
 }

@@ -13,14 +13,14 @@
 			"x": 3,
 			"y": 1,
 			"reload": 15,
-			"shootSound": sap,
-			"ejectEffect": none,
+			"shootSound": "sap",
+			"ejectEffect": "none",
 			"bullet": {
 				"type": "LaserBulletType",
 				"length": 50,
 				"damage": 40,
 				"shootEffect": "shootSmall",
-				"despawnEffect": none,
+				"despawnEffect": "none",
 				"width": 0.5
 			}
 		}
