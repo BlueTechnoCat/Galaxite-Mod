@@ -3,7 +3,10 @@
 	"name": "Slicer",
 	"description": "This unit has the ability to burn it's enemies with it's slag-oil combo shooters.",
 	"speed": 0.6,
-	"immunities": "burning",
+	"immunities": [
+		"burning",
+		"melting"
+	],
 	"health": 900,
 	"hitSize": 13,
 	"itemCapacity": 60,
