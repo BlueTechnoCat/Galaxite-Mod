@@ -1,0 +1,33 @@
+{
+	"type": "mech",
+	"name": "Chopper",
+	"description": "",
+	"speed": 0.5,
+	"health": 12000
+	"armor": 11,
+	"canDrown": false,
+	"hitSize": 20,
+	"itemCapacity": 110,
+	"canBoost": true,
+	"targetAir": false,
+	"weapons": [
+		{
+			"name": "chopper-cannon",			
+			"top": false,
+			"x": 0,
+			"y": 7,
+			"reload": 70,
+			"ejectEffect": "casing3",
+			"shootSound": "artillery",
+			"bullet": {
+				"type": "ArtilleryBulletType",
+				"damage": 130,
+				"width": 11,
+				"height": 22,
+				"splashDamage": 75,
+				"splashDamageRadius": 28
+			}
+		}
+	],
+	"research": "slicer"
+}

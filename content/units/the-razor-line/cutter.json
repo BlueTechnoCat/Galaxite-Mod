@@ -1,0 +1,29 @@
+{
+	"type": "mech",
+	"name": "Cutter",
+	"description": "A specialized unit designed to cut throught anything with it's lasers",
+	"health": 600,
+	"hitSize": 9,
+	"speed": 0.7,
+	"canBoost": false,
+	"armor": 5,
+	"weapons": [
+		{
+			"name": "laser-cutter",
+			"x": 3,
+			"y": 1,
+			"reload": 15,
+			"shootSound": sap,
+			"ejectEffect": none,
+			"bullet": {
+				"type": "LaserBulletType",
+				"length": 50,
+				"damage": 40,
+				"shootEffect": "shootSmall",
+				"despawnEffect": none,
+				"width": 0.5
+			}
+		}
+	],
+	"research": "razor"
+}

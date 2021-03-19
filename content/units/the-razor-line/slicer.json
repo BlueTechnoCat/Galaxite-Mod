@@ -1,0 +1,16 @@
+{
+	"type": "mech",
+	"name": "Slicer",
+	"description": "",
+	"speed": 0.6,
+	"health": 900,
+	"hitSize": 13,
+	"itemCapacity": 60,
+	"targetAir": "",
+	"weapons": [
+		{
+			"name": ""
+		}
+	],
+	"research": "cutter"
+}

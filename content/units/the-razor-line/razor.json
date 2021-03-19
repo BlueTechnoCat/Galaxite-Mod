@@ -1,0 +1,20 @@
+{
+	"type": "mech",
+	"name": "Razor",
+	"description": "A basic shooter unit with good damage",
+	"speed": 0.8,
+	"hitSize": 8,
+	"canBoost": false,
+	"health": 200,
+	"weapons": [
+		{
+			"name": "cannon",
+			"top": false,
+			"x": 0,
+			"y": 2,
+			"reload": 30,
+			"bullet": "standardDense"
+		}
+	],
+	research: dagger
+}
