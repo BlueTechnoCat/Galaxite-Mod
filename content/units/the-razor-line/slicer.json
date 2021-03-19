@@ -19,6 +19,7 @@
 			"reload": 10,
 			"shootSound": "flame",
 			"mirror": false,
+			"firstShotDelay": 10,
 			"bullet": {
 				"type": "LiquidBulletType",
 				"liquid": "slag",
@@ -28,8 +29,7 @@
 				"drag": 0.01,
 				"shootEffect": "shootSmall",
 				"orbSize": 4,
-				"knockback": 1,
-				"firstShotDelay": 10
+				"knockback": 1
 			}
 		},
 		{

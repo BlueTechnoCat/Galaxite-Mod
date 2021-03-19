@@ -25,7 +25,7 @@
 				"damage": 130,
 				"width": 11,
 				"height": 22,
-				"lifetime": 100,
+				"lifetime": 400,
 				"splashDamage": 75,
 				"splashDamageRadius": 28
 			}
