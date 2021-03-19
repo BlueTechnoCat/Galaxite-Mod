@@ -27,9 +27,9 @@
 				"lifetime": 90,
 				"drag": 0.01,
 				"shootEffect": "shootSmall",
-				"orbSize": 7,
+				"orbSize": 4,
 				"knockback": 1,
-				"firstShotDelay": 2.5
+				"firstShotDelay": 5
 			}
 		},
 		{
@@ -48,7 +48,7 @@
 				"lifetime": 90,
 				"drag": 0.01,
 				"shootEffect": "shootSmall",
-				"orbSize": 7,
+				"orbSize": 4,
 				"knockback": 1
 			}
 		}

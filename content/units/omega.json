@@ -8,6 +8,7 @@
   "health": 300,
   "commandLimit": 7,
   "accel": 0.11,
+  "drag": 0.05,
   "mineTier": 3,
   "mineSpeed": 10,
   "itemCapacity": 100,
