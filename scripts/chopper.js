@@ -6,14 +6,13 @@ chopper.constructor = () => {
 
 if (!unit.IsFlying()) {
 	weapons.remove("bomber");
-	return;
 }
-else (unit.IsFlying()) {
-	weapons.add(new Weapon("bomber")) {{
-		reload = 25;
-		ejectEffect = Fx.none;
-		ignoreRotation = true;
-		shootSound = Sounds.none;
-		inaccuarcy = 12;
-	}};
+else if(unit.IsFlying()) {
+	weapons.add(new Weapon("bomber")); {{
+			reload = 25;
+			ejectEffect = Fx.none;
+			ignoreRotation = true;
+			shootSound = Sounds.none;
+			inaccuarcy = 12;
+		}};
 }
