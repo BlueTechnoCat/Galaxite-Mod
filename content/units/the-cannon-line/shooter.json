@@ -1,7 +1,8 @@
 {
   "type": "flying",
   "name": "Shooter",
-  "description": "",
+  "description": "A laser shooting unit, with good speed and good range",
+  "details": "The laser color was not selected randomly, aparrently is a famous color for lasers in a galaxy far far away...",
   "flying": true,
   "speed": 3.2,
   "health": 800,

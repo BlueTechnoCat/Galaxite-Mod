@@ -1,14 +1,15 @@
 {
   "type": "flying",
   "name": "Cannon",
-  "description": "",
+  "description": "An improved version of the flare, with better damage.",
+  "flying": true,
   "health": 50,
   "speed": 4,
-  "accel": 0.04,
+  "accel": 0.1,
   "drag": 0.01,
   "weapons": [
     {
-      "name": "cannon-weapon", //Creative name goes brrr...
+      "name": "cannon-weapon", //Creative name go brrr...
       "x": 3,
       "y": 1,
       "reload": 10,
