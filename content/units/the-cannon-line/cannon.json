@@ -1,0 +1,23 @@
+{
+  "type": "flying",
+  "name": "Cannon",
+  "description": "",
+  "health": 50,
+  "speed": 4,
+  "accel": 0.04,
+  "drag": 0.01,
+  "weapons": [
+    {
+      "name": "cannon-weapon", //Creative name goes brrr...
+      "x": 3,
+      "y": 1,
+      "reload": 20,
+      "bullet": {
+        "bullet": "BasicBulletType",
+        "damage": 11,
+        "speed": 4.57,
+        "lifetime": 35
+      }
+    }
+  ]
+}

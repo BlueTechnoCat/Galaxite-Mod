@@ -1,0 +1,28 @@
+{
+  "type": "flying",
+  "name": "Shooter",
+  "description": "",
+  "flying": true,
+  "speed": 3.2,
+  "health": 800,
+  "drag": 0.01,
+  "accel": 0.08,
+  "weapons": [
+    {
+      "name": "laser-gun",
+      "reload": 15,
+      "x": 4,
+      "y": 1,
+      "ejectEffect": "none",
+      "shootSound": "lasershoot",
+      "bullet": {
+        "bullet": "LaserBoltBulletType",
+        "damage": 30,
+        "speed": 4,
+        "lifetime": 50,
+        "frontColor": "ffffff",
+        "backColor": "ff0000"
+      }
+    }
+  ]
+}

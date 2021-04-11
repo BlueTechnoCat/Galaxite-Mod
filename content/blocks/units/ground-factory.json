@@ -1,35 +1,37 @@
-plans: [
-	{
-		unit: dagger
-		time: 900
-		requirements: [
-			silicon/10
-			lead/10
-		]
-	}
-		{
-		unit: crawler
-		time: 720
-		requirements: [
-			silicon/10
-			coal/20
-		]
-	}
-		{
-		unit: nova
-		time: 2400
-		requirements: [
-			silicon/30
-			lead/20
-			titanium/20
-		]
-	}
-		{
-		unit: razor
-		time: 1200
-		requirements: [
-			silicon/25
-			drained-galaxite/15
-		]
-	}
-]
+{
+  "plans": [
+    {
+      "unit": "dagger",
+      "time": 900,
+      "requirements": [
+        "silicon/10",
+        "lead/10"
+      ]
+    },
+    {
+      "unit": "crawler",
+      "time": 720,
+      "requirements": [
+        "silicon/10",
+        "coal/20"
+      ]
+    },
+    {
+      "unit": "nova",
+      "time": 2400,
+      "requirements": [
+        "silicon/30",
+        "lead/20",
+        "titanium/20"
+      ]
+    },
+    {
+      "unit": "razor",
+      "time": 1200,
+      "requirements": [
+        "silicon/25",
+        "drained-galaxite/15"
+      ]
+    }
+  ]
+}

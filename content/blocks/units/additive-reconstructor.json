@@ -1,29 +1,35 @@
-upgrades: [
-	[
-		dagger, mace
-	]
-	
-	[
-		crawler, atrax
-	]
+{
+  "upgrades": [
+    [
+      "dagger, mace"
+    ],
 
-	[
-		nova, pulsar
-	]
+    [
+      "crawler, atrax"
+    ],
 
-	[
-		flare, horizon
-	]
-	
-	[
-		mono, poly
-	]	
-	
-	[
-		risso,  minke
-	]
-	
-	[
-		razor, cutter
-	]	
-]
+    [
+      "nova, pulsar"
+    ],
+
+    [
+      "flare, horizon"
+    ],
+
+    [
+      "mono, poly"
+    ],
+
+    [
+      "risso,  minke"
+    ],
+
+    [
+      "razor, cutter"
+    ],
+
+    [
+      "cannon,shooter"
+    ]
+  ]
+}

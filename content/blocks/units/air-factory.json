@@ -1,0 +1,27 @@
+{
+  "plans": [
+    {
+      "unit": "flare",
+      "time": 900,
+      "requirements": [
+        "silicon/15"
+      ]
+    },
+    {
+      "unit": "mono",
+      "time": 2100,
+      "requirements": [
+        "silicon/30",
+        "lead/15"
+      ]
+    },
+    {
+      "unit": "cannon",
+      "time": 1500,
+      "requirements": [
+        "silicon/25",
+        "drained-galaxite/10"
+      ]
+    }
+  ]
+}

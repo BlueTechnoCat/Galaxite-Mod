@@ -1,7 +1,8 @@
 {
 	"type": "CoreBlock",
 	"name": "Core: Radiant",
-	"description": "A new iteration of the core, using galaxite to make it incredibly durable",
+	"description": "A new iteration of the core, using galaxite to make it incredibly durable.",
+	"details": "After some analisis on the core structure, you managed to create a better version, a new iteration of the core.",
 	"itemCapacity": 25000,
 	"health": 13000,
 	"size": 6,

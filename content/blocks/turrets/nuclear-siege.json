@@ -8,7 +8,7 @@
 	"reloadTime": 55,
 	"inaccuracy": 9,
 	"targetAir": false,
-	"shootSound": artillery,
+	"shootSound": "artillery",
 	"range": 320,
 	"minRange": 35,
 	"ammoEjectBack": 5,
@@ -30,7 +30,7 @@
 			"splashDamageRadius": 40,
 			"ammoMultiplier": 4,
 			"knockback": 0.8,
-			"speed": 2
+			"speed": 2,
 			"lifetime": 160,
 			"despawnEffect": "bigShockwave",
 			"width": 13,
@@ -51,6 +51,7 @@
 			"lifetime": 106,
 			"hitEffect": "nuclearShockwave",
 			"despawnEffect": "nuclearcloud",
+			"collidesAir": true,
 			"width": 15,
 			"height": 15
 		}

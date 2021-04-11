@@ -21,7 +21,12 @@
 				"damage": 40,
 				"shootEffect": "shootSmall",
 				"despawnEffect": "none",
-				"width": 0.5
+				"width": 0.5,
+				"colors": [
+					"ff0000",
+					"ff8888",
+					"ffffff"
+				]									
 			}
 		}
 	],
