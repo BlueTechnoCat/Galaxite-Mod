@@ -3,7 +3,7 @@
   "name": "Cannon",
   "description": "An improved version of the flare, with better damage.",
   "flying": true,
-  "health": 50,
+  "health": 100,
   "speed": 4,
   "accel": 0.1,
   "drag": 0.01,

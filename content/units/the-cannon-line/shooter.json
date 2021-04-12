@@ -6,22 +6,27 @@
   "flying": true,
   "speed": 3.2,
   "health": 800,
+  "armor": 2,
+  "engineOffset": 7,
   "drag": 0.01,
   "accel": 0.08,
   "weapons": [
     {
       "name": "laser-gun",
       "reload": 15,
-      "x": 4,
-      "y": 1,
+      "x": 7.5,
+      "y": 0,
       "ejectEffect": "none",
       "shootSound": "lasershoot",
+      "recoil": 0,
       "bullet": {
         "bullet": "LaserBoltBulletType",
         "damage": 30,
         "speed": 4,
+        "height": 15,
+        "width": 5,
         "lifetime": 50,
-        "frontColor": "ffffff",
+        "frontColor": "ff4444",
         "backColor": "ff0000"
       }
     }
