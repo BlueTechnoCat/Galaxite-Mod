@@ -46,7 +46,7 @@ TODO:
 
   - [ ] units
 
-    #### Razor Line
+    ### Razor Line
 
     - [ ] razor
       - [ ] razor.png
@@ -123,7 +123,7 @@ TODO:
       - [ ] rifleman-icon.png
 
 
-    #### Core Unit
+    ### Core Unit
     
     - [x] omega
       - [x] omega.png
