@@ -48,13 +48,13 @@ TODO:
 
     ### Razor Line
 
-    - [ ] razor(T1)
-      - [ ] razor.png
-      - [ ] razor-base.png
-      - [ ] razor-leg.png
-      - [ ] razor-cell.png
-      - [ ] cannon.png (Weapon)
-      - [ ] razor-icon.png
+    - [x] razor(T1)
+      - [x] razor.png
+      - [x] razor-base.png
+      - [x] razor-leg.png
+      - [x] razor-cell.png
+      - [x] cannon.png (Weapon)
+      - [x] razor-full.png
 
     - [ ] cutter(T2)
       - [ ] cutter.png
@@ -62,7 +62,7 @@ TODO:
       - [ ] cutter-leg.png
       - [ ] cutter-cell.png
       - [ ] laser-cutter.png (Weapon)
-      - [ ] cutter-icon.png
+      - [ ] cutter-full.png
 
     - [ ] slicer(T3)
       - [ ] slicer.png
@@ -71,7 +71,7 @@ TODO:
       - [ ] slicer-cell.png
       - [ ] slag-cannon.png (Weapon 1) (Similar sprites, would have a small diference)
       - [ ] oil-cannon.png (Weapon 2)
-      - [ ] slicer-icon.png
+      - [ ] slicer-full.png
 
     - [ ] chopper(T4)
       - [ ] chopper.png
@@ -79,7 +79,7 @@ TODO:
       - [ ] chopper-leg.png
       - [ ] chopper-cell.png
       - [ ] chopper-cannon.png (Weapon)
-      - [ ] chopper-icon.png
+      - [ ] chopper-full.png
 
     - [ ] shredder(T5)
       - [ ] shredder.png
@@ -87,7 +87,7 @@ TODO:
       - [ ] shredder-leg.png
       - [ ] shredder-cell.png
       - [ ] TODO (Weapon)
-      - [ ] shredder-icon.png
+      - [ ] shredder-full.png
 
 
     ### Cannoneer Line
@@ -96,31 +96,31 @@ TODO:
       - [ ] cannoneer.png
       - [ ] cannoneer-cell.png
       - [ ] cannon-weapon.png (Weapon)
-      - [ ] cannoneer-icon.png
+      - [ ] cannoneer-full.png
 
     - [x] shooter(T2)
       - [x] shooter.png
       - [x] shooter-cell.png
       - [x] laser-gun.png (Weapon)
-      - [x] shooter-icon.png
+      - [x] shooter-full.png
 
     - [ ] soldier(T3)
       - [ ] soldier.png
       - [ ] soldier-cell.png
       - [ ] TODO (Weapon)
-      - [ ] soldier-icon.png
+      - [ ] soldier-full.png
 
     - [ ] marksman(T4)
       - [ ] marksman.png
       - [ ] marksman-cell.png
       - [ ] TODO (Weapon)
-      - [ ] marksman-icon.png
+      - [ ] marksman-full.png
 
     - [ ] rifleman(T5)
       - [ ] rifleman.png
       - [ ] rifleman-cell.png
       - [ ] TODO (Weapon)
-      - [ ] rifleman-icon.png
+      - [ ] rifleman-full.png
 
 
     ### Core Unit
@@ -129,4 +129,4 @@ TODO:
       - [x] omega.png
       - [x] omega-cell.png
       - [x] big-mount-weapon.png (Weapon)
-      - [x] omega-icon.png
+      - [x] omega-full.png

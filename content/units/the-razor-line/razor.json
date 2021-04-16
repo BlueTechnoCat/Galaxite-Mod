@@ -12,7 +12,7 @@
 			"top": false,
 			"mirror": false,
 			"x": 0,
-			"y": 2,
+			"y": 0,
 			"reload": 30,
 			"bullet": "standardDense"
 		}
