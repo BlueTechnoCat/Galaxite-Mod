@@ -48,7 +48,7 @@ TODO:
 
     ### Razor Line
 
-    - [ ] razor
+    - [ ] razor(T1)
       - [ ] razor.png
       - [ ] razor-base.png
       - [ ] razor-leg.png
@@ -56,7 +56,7 @@ TODO:
       - [ ] cannon.png (Weapon)
       - [ ] razor-icon.png
 
-    - [ ] cutter
+    - [ ] cutter(T2)
       - [ ] cutter.png
       - [ ] cutter-base.png
       - [ ] cutter-leg.png
@@ -64,7 +64,7 @@ TODO:
       - [ ] laser-cutter.png (Weapon)
       - [ ] cutter-icon.png
 
-    - [ ] slicer
+    - [ ] slicer(T3)
       - [ ] slicer.png
       - [ ] slicer-base.png
       - [ ] slicer-leg.png
@@ -73,7 +73,7 @@ TODO:
       - [ ] oil-cannon.png (Weapon 2)
       - [ ] slicer-icon.png
 
-    - [ ] chopper
+    - [ ] chopper(T4)
       - [ ] chopper.png
       - [ ] chopper-base.png
       - [ ] chopper-leg.png
@@ -81,7 +81,7 @@ TODO:
       - [ ] chopper-cannon.png (Weapon)
       - [ ] chopper-icon.png
 
-    - [ ] shredder
+    - [ ] shredder(T5)
       - [ ] shredder.png
       - [ ] shredder-base.png
       - [ ] shredder-leg.png
@@ -90,33 +90,33 @@ TODO:
       - [ ] shredder-icon.png
 
 
-    #### Cannoneer Line
+    ### Cannoneer Line
 
-    - [ ] cannoneer
+    - [ ] cannoneer(T1)
       - [ ] cannoneer.png
       - [ ] cannoneer-cell.png
       - [ ] cannon-weapon.png (Weapon)
       - [ ] cannoneer-icon.png
 
-    - [x] shooter
+    - [x] shooter(T2)
       - [x] shooter.png
       - [x] shooter-cell.png
       - [x] laser-gun.png (Weapon)
       - [x] shooter-icon.png
 
-    - [ ] soldier
+    - [ ] soldier(T3)
       - [ ] soldier.png
       - [ ] soldier-cell.png
       - [ ] TODO (Weapon)
       - [ ] soldier-icon.png
 
-    - [ ] marksman
+    - [ ] marksman(T4)
       - [ ] marksman.png
       - [ ] marksman-cell.png
       - [ ] TODO (Weapon)
       - [ ] marksman-icon.png
 
-    - [ ] rifleman
+    - [ ] rifleman(T5)
       - [ ] rifleman.png
       - [ ] rifleman-cell.png
       - [ ] TODO (Weapon)
