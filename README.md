@@ -27,10 +27,10 @@ TODO:
       - [ ] drained-galaxite-wall.png
       - [ ] drained-galaxite-wall-large.png
 
-    - [ ] effect
-      - [ ] core-radiant (In process)
+    - [x] effect
+      - [x] core-radiant
         - [x] core-radiant.png
-        - [ ] core-radiant-team.png (In process)
+        - [x] core-radiant-team.png
 
     - [x] power
       - [x] giga-radiation-reactor
