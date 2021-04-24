@@ -1,29 +1,32 @@
-upgrades: [
+{
+"upgrades": [
     [
-      mace, fortress
-    ]
+      "mace", "fortress"
+    ],
 
     [
-      atrax, spiroct
-    ]
+      "atrax", "spiroct"
+    ],
 
     [
-      pulsar, quasar
-    ]
+      "pulsar", "quasar"
+    ],
 
     [
-      horizon, zenith
-    ]
+      "horizon", "zenith"
+    ],
 
     [
-      poly, mega
-    ]
+      "poly", "mega"
+    ],
 
     [
-      minke, bryde
-    ]
+      "minke", "bryde"
+    ],
 
     [
-      cutter, slicer
+      "cutter", "slicer"
     ]
   ]
+
+}

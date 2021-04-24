@@ -1,19 +1,19 @@
 const chopper = extendContent(UnitType, "chopper", {});
+
 chopper.constructor = () => {
 	const unit = extend(UnitEntity, {})
 	return unit;
 }
 
-if (!unit.flying()) {
-	weapons.remove("bomber");
-}
-else if(unit.flying()) {
-	weapons.add(new Weapon("bomber")); {{
-			reload = 25;
-			ejectEffect = Fx.none;
-			ignoreRotation = true;
-			shootSound = Sounds.none;
-			damage = 130f;
-			inaccuarcy = 12;
-		}};
-}
+const bomb = extend(BombBulletType, {
+	splashDamage: 130,
+	width: 12,
+	height: 10,
+	splashDamageRadius: 32,
+	hitEffect: Fx.flakExplosion,
+	shootEffect: Fx.none,
+	smokeEffect: Fx.none,
+	status: StatusEffects.blasted,
+	statusDuration: 60
+});
+

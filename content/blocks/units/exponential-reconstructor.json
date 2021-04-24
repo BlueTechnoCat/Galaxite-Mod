@@ -1,29 +1,31 @@
-upgrades: [
+{
+"upgrades": [
     [
-      fortress, scepter
-    ]
+      "fortress", "scepter"
+    ],
 
     [
-      spiroct, arkyid
-    ]
+      "spiroct", "arkyid"
+    ],
 
     [
-      quasar, vela
-    ]
+      "quasar", "vela"
+    ],
 
     [
-      zenith, antumbra
-    ]
+      "zenith", "antumbra"
+    ],
 
     [
-      mega, quad
-    ]
+      "mega", "quad"
+    ],
 
     [
-      bryde, sei
-    ]
+      "bryde", "sei"
+    ],
 
     [
-      slicer, chopper
+      "slicer", "chopper"
     ]
   ]
+}

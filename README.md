@@ -42,7 +42,7 @@ TODO:
         - [x] giga-radiation-reactor-plasma-3.png
 
     - [ ] turrets
-      - [ ] nuclear-siege
+      - [ ] nuclear-siege.png
 
   - [ ] units
 
@@ -86,7 +86,7 @@ TODO:
       - [ ] shredder-base.png
       - [ ] shredder-leg.png
       - [ ] shredder-cell.png
-      - [ ] TODO (Weapon)
+      - [ ] shredder-pulse-cannon.png (Weapon)
       - [ ] shredder-full.png
 
 

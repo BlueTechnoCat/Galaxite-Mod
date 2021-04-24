@@ -1,5 +1,39 @@
 {
   "type": "mech",
   "name": "Shredder",
-  "description": ""
+  "description": "The best mech, it can fly, doesn't drown and it's bullets explode in a pulse that slows down enemies.",
+  "speed": 0.3,
+  "health": 26000,
+  "armor": 25,
+  "canDrown": false,
+  "hitSize": 28,
+  "canBoost": true,
+  "itemCapacity": 150,
+  "weapons": [
+    {
+      "name": "shredder-pulse-cannon",
+      "x": 9,
+      "y": 1,
+      "reload": 25,
+      "shootSound": "bang",
+      "bullet": {
+        "type": "BasicBulletType",
+        "damage": 300,
+        "width": 15,
+        "height": 17,
+        "speed": 4.5,
+        "lifetime": 89,
+        "fragBullets": 1, //So it generates only one pulse
+        "fragBullet": {
+          "type": "BombBulletType", //Should be like a pulse, hence the "pulse" part
+          "splashDamage": 50,
+          "lifetime": 1,
+          "despawnEffect": "commandSend",
+          "splashDamageRadius": 80,
+          "status": "freezing",
+          "statusDuration": 900
+        }
+      }
+    }
+  ]
 }
