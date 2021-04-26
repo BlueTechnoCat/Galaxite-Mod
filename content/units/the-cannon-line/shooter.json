@@ -23,8 +23,8 @@
         "bullet": "LaserBoltBulletType",
         "damage": 30,
         "speed": 4,
-		"height": 15,
-		"width": 5,
+		    "height": 15,
+		    "width": 5,
         "lifetime": 50,
         "frontColor": "ff4444",
         "backColor": "ff0000"

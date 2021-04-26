@@ -16,7 +16,7 @@
       ]
     },
     {
-      "unit": "cannon",
+      "unit": "cannoneer",
       "time": 1500,
       "requirements": [
         "silicon/25",

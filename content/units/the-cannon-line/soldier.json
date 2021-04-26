@@ -1,0 +1,33 @@
+{
+  "type": "flying",
+  "name": "Soldier",
+  "description": "",
+  "flying": true,
+  "speed": 2.9,
+  "health": 1040,
+  "armor": 8,
+  "drag": 0.01,
+  "accel": 0.07,
+  "weapons": [
+    {
+      "name": "mount-lancer",
+      "reload": 35,
+      "x": 5,
+      "y": 1,
+      "shootSound": "laser",
+      "bullet": {
+        "type": "LaserBulletType",
+        "damage": 75,
+        "lenght": 130,
+        "lifetime": 20,
+        "hitSize": 4,
+        "width": 13,
+        "colors": [
+          "ff0000",
+          "ff4444",
+          "ff8888"
+        ]
+      }
+    }
+  ]
+}
