@@ -23,9 +23,9 @@ TODO:
         - [ ] radiant-coolant-mixer-liquid.png
       - [ ] radiation-drainer.png
       
-    - [ ] defense
-      - [ ] drained-galaxite-wall.png
-      - [ ] drained-galaxite-wall-large.png
+    - [x] defense
+      - [x] drained-galaxite-wall.png
+      - [x] drained-galaxite-wall-large.png
 
     - [x] effect
       - [x] core-radiant
@@ -93,9 +93,8 @@ TODO:
     ### Cannoneer Line
 
     - [ ] cannoneer(T1)
-      - [ ] cannoneer.png
+      - [x] cannoneer.png
       - [ ] cannoneer-cell.png
-      - [ ] cannon-weapon.png (Weapon)
       - [ ] cannoneer-full.png
 
     - [x] shooter(T2)
