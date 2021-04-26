@@ -1,6 +1,6 @@
 {
   "type": "flying",
-  "name": "Cannon",
+  "name": "Cannoneer",
   "description": "An improved version of the flare, with better damage.",
   "flying": true,
   "health": 100,
