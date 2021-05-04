@@ -8,32 +8,44 @@ TODO:
 - [ ] Complete the spriting
 
   - [x] items
-    - [x] galaxite
-    - [x] drained-galaxite
-    - [x] radiant-coolant
 
-  - [ ] blocks
-    - [ ] crafting
+    - [x] galaxite.png
+    - [x] drained-galaxite.png
+    - [x] radiant-coolant.png
+
+  - [x] blocks (Complete)
+
+    - [x] crafting
+
       - [x] galaxite-generator
+
         - [x] galaxite-generator.png
         - [x] galaxite-generator-top.png
+
       - [x] radiant-coolant-mixer
+
         - [x] radiant-coolant-mixer.png
         - [x] radiant-coolant-mixer-bottom.png
         - [x] radiant-coolant-mixer-liquid.png
-      - [ ] radiation-drainer.png
+
+      - [x] radiation-drainer.png
       
     - [x] defense
+
       - [x] drained-galaxite-wall.png
       - [x] drained-galaxite-wall-large.png
 
     - [x] effect
+
       - [x] core-radiant
+
         - [x] core-radiant.png
         - [x] core-radiant-team.png
 
     - [x] power
+
       - [x] giga-radiation-reactor
+
         - [x] giga-radiation-reactor.png
         - [x] giga-radiation-reactor-bottom.png
         - [x] giga-radiation-reactor-plasma-0.png
@@ -42,6 +54,7 @@ TODO:
         - [x] giga-radiation-reactor-plasma-3.png
 
     - [x] turrets
+
       - [x] nuclear-siege.png
       - [x] nuclear-siege-heat.png
 
@@ -50,6 +63,7 @@ TODO:
     ### Razor Line
 
     - [x] razor(T1)
+
       - [x] razor.png
       - [x] razor-base.png
       - [x] razor-leg.png
@@ -58,6 +72,7 @@ TODO:
       - [x] razor-full.png
 
     - [ ] cutter(T2)
+
       - [ ] cutter.png
       - [ ] cutter-base.png
       - [ ] cutter-leg.png
@@ -66,6 +81,7 @@ TODO:
       - [ ] cutter-full.png
 
     - [ ] slicer(T3)
+
       - [ ] slicer.png
       - [ ] slicer-base.png
       - [ ] slicer-leg.png
@@ -75,6 +91,7 @@ TODO:
       - [ ] slicer-full.png
 
     - [ ] chopper(T4)
+
       - [ ] chopper.png
       - [ ] chopper-base.png
       - [ ] chopper-leg.png
@@ -83,6 +100,7 @@ TODO:
       - [ ] chopper-full.png
 
     - [ ] shredder(T5)
+
       - [ ] shredder.png
       - [ ] shredder-base.png
       - [ ] shredder-leg.png
@@ -94,29 +112,34 @@ TODO:
     ### Cannoneer Line
 
     - [ ] cannoneer(T1)
+
       - [x] cannoneer.png
       - [ ] cannoneer-cell.png
       - [ ] cannoneer-full.png
 
     - [x] shooter(T2)
+
       - [x] shooter.png
       - [x] shooter-cell.png
       - [x] laser-gun.png (Weapon)
       - [x] shooter-full.png
 
     - [ ] soldier(T3)
+
       - [ ] soldier.png
       - [ ] soldier-cell.png
       - [ ] mount-laser (Weapon)
       - [ ] soldier-full.png
 
     - [ ] marksman(T4)
+
       - [ ] marksman.png
       - [ ] marksman-cell.png
       - [ ] TODO (Weapon)
       - [ ] marksman-full.png
 
     - [ ] rifleman(T5)
+
       - [ ] rifleman.png
       - [ ] rifleman-cell.png
       - [ ] TODO (Weapon)
@@ -126,6 +149,7 @@ TODO:
     ### Core Unit
     
     - [x] omega
+
       - [x] omega.png
       - [x] omega-cell.png
       - [x] big-mount-weapon.png (Weapon)
