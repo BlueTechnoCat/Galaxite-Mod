@@ -8,5 +8,12 @@
   "flammability": 0,
   "charge": 0,
   "color": "111155",
-  "research": "galaxite"
+  "research": {
+
+  "parent": "galaxite",
+  "requirements": [
+	"galaxite/5000"
+  ]
+  
+  }
 }

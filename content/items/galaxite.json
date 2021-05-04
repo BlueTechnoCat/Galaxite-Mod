@@ -8,5 +8,13 @@
   "flammability": 0,
   "charge": 0,
   "color": "1111CC",
-  "research": "phase-fabric"  
+  "research": {
+	"parent": "phase-fabric",
+	"research": [
+		"thorium/10000",
+		"titanium/10000",
+		"silicon/6000",
+		"plastanium/8000"
+	]
+  }  
 }

@@ -14,13 +14,13 @@ TODO:
 
   - [ ] blocks
     - [ ] crafting
-      - [ ] galaxite-generator
-        - [ ] galaxite-generator.png
-        - [ ] galaxite-generator-top.png
-      - [ ] radiant-coolant-mixer
-        - [ ] radiant-coolant-mixer.png
-        - [ ] radiant-coolant-mixer-bottom.png
-        - [ ] radiant-coolant-mixer-liquid.png
+      - [x] galaxite-generator
+        - [x] galaxite-generator.png
+        - [x] galaxite-generator-top.png
+      - [x] radiant-coolant-mixer
+        - [x] radiant-coolant-mixer.png
+        - [x] radiant-coolant-mixer-bottom.png
+        - [x] radiant-coolant-mixer-liquid.png
       - [ ] radiation-drainer.png
       
     - [x] defense

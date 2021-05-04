@@ -29,6 +29,7 @@
 			"splashDamage": 65,
 			"splashDamageRadius": 40,
 			"ammoMultiplier": 4,
+			"collidesAir": true, 
 			"knockback": 0.8,
 			"speed": 2,
 			"lifetime": 160,
