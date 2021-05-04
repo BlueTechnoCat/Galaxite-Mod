@@ -41,8 +41,9 @@ TODO:
         - [x] giga-radiation-reactor-plasma-2.png
         - [x] giga-radiation-reactor-plasma-3.png
 
-    - [ ] turrets
-      - [ ] nuclear-siege.png
+    - [x] turrets
+      - [x] nuclear-siege.png
+      - [x] nuclear-siege-heat.png
 
   - [ ] units
 
