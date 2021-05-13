@@ -2,5 +2,6 @@
   "type": "flying",
   "name": "Rifleman",
   "description": "",
-  "flying": true
+  "flying": true,
+  "speed": 1.9
 }

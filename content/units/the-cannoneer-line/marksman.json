@@ -2,5 +2,6 @@
   "type": "flying",
   "name": "Marksman",
   "description": "",
-  "flying": true
+  "flying": true,
+  "speed": 2.4
 }
