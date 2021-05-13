@@ -111,11 +111,11 @@ TODO:
 
     ### Cannoneer Line
 
-    - [ ] cannoneer(T1)
+    - [x] cannoneer(T1)
 
       - [x] cannoneer.png
-      - [ ] cannoneer-cell.png
-      - [ ] cannoneer-full.png
+      - [x] cannoneer-cell.png
+      - [x] cannoneer-full.png
 
     - [x] shooter(T2)
 

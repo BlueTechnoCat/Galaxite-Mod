@@ -30,7 +30,7 @@
           "lifetime": 1,
           "despawnEffect": "commandSend",
           "splashDamageRadius": 80,
-          "status": "freezing",
+          "status": "slow",
           "statusDuration": 900
         }
       }
