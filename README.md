@@ -13,7 +13,7 @@ TODO:
     - [x] drained-galaxite.png
     - [x] radiant-coolant.png
 
-  - [x] blocks (Complete)
+  - [ ] blocks
 
     - [x] crafting
 
@@ -42,7 +42,13 @@ TODO:
         - [x] core-radiant.png
         - [x] core-radiant-team.png
 
-    - [x] power
+    - [ ] power
+
+	  - [ ] radiation-reactor
+	  
+	    - [ ] radiation-reactor.png
+		- [ ] radiation-reactor-lights.png
+		- [ ] radiation-reactor-top.png
 
       - [x] giga-radiation-reactor
 
