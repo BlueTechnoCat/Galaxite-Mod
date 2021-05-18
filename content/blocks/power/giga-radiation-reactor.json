@@ -6,6 +6,8 @@
   "health": 1350,
   "powerProduction": 300,
   "itemDuration": 125,
+  "explosionRadius": 75,
+  "explosionDamage": 12000
   "ambientSound": "pulse",
   "ambientSoundVolume": 0.07,
   "consumes": {
@@ -27,6 +29,6 @@
     "surge-alloy/345",
     "phase-fabric/400"
   ],
-  "research": "impact-reactor",
+  "research": "radiation-reactor",
   "category": "power"
 }

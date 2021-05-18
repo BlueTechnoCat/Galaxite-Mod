@@ -1,0 +1,34 @@
+{
+	"type": "NuclearReactor",
+	"name": "Radiation Reactor",
+	"description": "A specialized reactor that uses galaxite as fuel",
+	"details": "[scarlet]Warning: []the lack of coolant in this reactor will cause an explosion, use with caution.",
+	"powerProduciton": 90,
+	"size": 3,
+	"health": 900,
+	"itemDuration": 250,
+	"ambientSound": "hum",
+	"ambientSoundVolume": 0.24,
+	"explosionRadius": 50,
+	"explosionDamage": 5700
+	"heating": 0.02,
+	"consumes": {
+		"items": {
+			"items": [
+				"galaxite/1"
+			]
+		},
+		"liquid": {
+			"liquid": "radiant-coolant",
+			"amount": 0.125
+		}
+	},
+	"requirements": [
+		"silicon/600",
+		"titanium/475",
+		"thorium/400",
+		"surge-alloy/100"
+	],
+	"research": "impact-reactor",
+	"category": "power"
+}
