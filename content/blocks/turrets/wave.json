@@ -8,8 +8,8 @@
 		  "type": "LiquidBulletType",
 		  "liquid": "radiant-coolant"
 		  "drag": 0.01,
-		  "speed": 2,
-		  "lifetime": 110
+		  "speed": 4,
+		  "lifetime": 55
 		}
 	}
 }
