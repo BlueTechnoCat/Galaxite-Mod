@@ -1,5 +1,5 @@
 {
-  ammoTypes: {	
+  "ammoTypes": {	
 	  "water": "heavyWaterShot",
 	  "slag": "heavySlagShot",
 	  "oil": "heavyOilShot",
