@@ -10,7 +10,7 @@
 	"ambientSound": "hum",
 	"ambientSoundVolume": 0.24,
 	"explosionRadius": 50,
-	"explosionDamage": 5700
+	"explosionDamage": 5700,
 	"heating": 0.05,
 	"consumes": {
 		"items": {

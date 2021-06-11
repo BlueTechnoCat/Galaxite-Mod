@@ -23,7 +23,6 @@
     "silicon/475",
     "graphite/450",
     "titanium/325"
-
   ],
   "drawer": "drawMixer",
   "outputLiquid": "radiant-coolant/0.6",

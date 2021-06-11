@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Radiation Drainer", //For lack of  better name...
+  "name": "Radiation Drainer",
   "description": "A building capable of extracting the radiation from galaxite, requires cooling",
   "details": "It's made to be incredibly efficient, It uses the radiation it drains to power itself, making it a self-suffitient machine",
   "size": 3,

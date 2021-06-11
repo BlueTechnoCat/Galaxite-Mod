@@ -22,7 +22,7 @@
 		
 		"blast-compound": "artilleryExplosive",
 		
-		"thorium": 
+		"thorium":
 		{
 			"type": "ArtilleryBulletType",
 			"damage": 30,
@@ -38,7 +38,7 @@
 			"height": 13
 		},
 		
-		"galaxite": 
+		"galaxite":
 		{
 			"type": "ArtilleryBulletType",
 			"damage": 60,

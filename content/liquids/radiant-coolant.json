@@ -8,9 +8,8 @@
   "color": "2fc688",
   "lightColor": "2fc688",
   "research": {
-	  
-  "parent": "cryofluid",
-  "requirements": [
+    "parent": "cryofluid",
+    "requirements": [
 		"plastanium/10000"
 	]
   }
