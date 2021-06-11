@@ -23,9 +23,9 @@
         "height": 17,
         "speed": 4.5,
         "lifetime": 89,
-        "fragBullets": 1, //So it generates only one pulse
+        "fragBullets": 1,
         "fragBullet": {
-          "type": "BombBulletType", //Should be like a pulse, hence the "pulse" part
+          "type": "BombBulletType",
           "splashDamage": 50,
           "lifetime": 1,
           "despawnEffect": "commandSend",

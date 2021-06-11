@@ -9,12 +9,12 @@
   "charge": 0,
   "color": "1111CC",
   "research": {
-	"parent": "phase-fabric",
-	"research": [
-		"thorium/10000",
-		"titanium/10000",
-		"silicon/6000",
-		"plastanium/8000"
-	]
-  }  
+    "parent": "phase-fabric",
+    "research": [
+      "thorium/10000",
+      "titanium/10000",
+      "silicon/6000",
+      "plastanium/8000"
+    ]
+  }
 }

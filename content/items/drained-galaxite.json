@@ -9,11 +9,9 @@
   "charge": 0,
   "color": "111155",
   "research": {
-
-  "parent": "galaxite",
-  "requirements": [
-	"galaxite/5000"
-  ]
-  
+    "parent": "galaxite",
+    "requirements": [
+      "galaxite/5000"
+    ]
   }
 }

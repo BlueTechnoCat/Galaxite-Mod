@@ -18,8 +18,8 @@
       ]
     },
     "liquid": {
-        "liquid": "radiant-coolant",
-        "amount": "0.25"
+      "liquid": "radiant-coolant",
+      "amount": "0.25"
     }
   },
   "requirements": [

@@ -1,15 +1,15 @@
 {
-  "ammoTypes": {	
-	  "water": "waterShot",
-	  "slag": "slagShot",
-	  "oil": "oilShot",
-	  "cryofluid": "cryoShot"
-	  "radiant-coolant": {
-		  "type": "LiquidBulletType",
-		  "liquid": "radiant-coolant"
-		  "drag": 0.01,
-		  "speed": 4,
-		  "lifetime": 55
+	"ammoTypes": {
+		"water": "waterShot",
+		"slag": "slagShot",
+		"oil": "oilShot",
+		"cryofluid": "cryoShot",
+		"radiant-coolant": {
+			"type": "LiquidBulletType",
+			"liquid": "radiant-coolant",
+			"drag": 0.01,
+			"speed": 4,
+			"lifetime": 55
 		}
 	}
 }

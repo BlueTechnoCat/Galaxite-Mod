@@ -1,21 +1,21 @@
 {
-  "ammoTypes": {	
-	  "water": "heavyWaterShot",
-	  "slag": "heavySlagShot",
-	  "oil": "heavyOilShot",
-	  "cryofluid": "heavyCryoShot"
-	  "radiant-coolant": {
-		  "type": "LiquidBulletType",
-		  "liquid": "radiant-coolant",
-		  "lifetime": 49,
-		  "speed": 4,
-		  "knockback": 3.4,
-		  "puddleSize": 10,
-		  "orbSize": 4,
-		  "drag": 0.001,
-	      "ammoMultiplier": 0.4,
-		  "statusDuration": 240,
-	  	  "damage": 0.5
+	"ammoTypes": {
+		"water": "heavyWaterShot",
+		"slag": "heavySlagShot",
+		"oil": "heavyOilShot",
+		"cryofluid": "heavyCryoShot",
+		"radiant-coolant": {
+			"type": "LiquidBulletType",
+			"liquid": "radiant-coolant",
+			"lifetime": 49,
+			"speed": 4,
+			"knockback": 3.4,
+			"puddleSize": 10,
+			"orbSize": 4,
+			"drag": 0.001,
+			"ammoMultiplier": 0.4,
+			"statusDuration": 240,
+			"damage": 0.5
+		}
 	}
-  }
 }

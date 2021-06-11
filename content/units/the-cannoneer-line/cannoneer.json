@@ -9,7 +9,7 @@
   "drag": 0.01,
   "weapons": [
     {
-      "name": "cannon-weapon", //Creative name go brrr...
+      "name": "cannon-weapon",
       "x": 3,
       "y": 1,
       "reload": 10,

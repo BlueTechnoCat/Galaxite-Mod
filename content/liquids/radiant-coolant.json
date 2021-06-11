@@ -10,7 +10,7 @@
   "research": {
     "parent": "cryofluid",
     "requirements": [
-		"plastanium/10000"
-	]
+      "plastanium/10000"
+    ]
   }
 }

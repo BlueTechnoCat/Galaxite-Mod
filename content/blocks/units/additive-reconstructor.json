@@ -1,35 +1,36 @@
 {
-"upgrades": [
+  "upgrades": [
     [
-      "dagger", "mace"
+      "dagger",
+      "mace"
     ],
-
     [
-      "crawler", "atrax"
+      "crawler",
+      "atrax"
     ],
-
     [
-      "nova", "pulsar"
+      "nova",
+      "pulsar"
     ],
-
     [
-      "flare", "horizon"
+      "flare",
+      "horizon"
     ],
-
     [
-      "mono", "poly"
+      "mono",
+      "poly"
     ],
-
     [
-      "risso",  "minke"
+      "risso",
+      "minke"
     ],
-
     [
-      "razor", "cutter"
+      "razor",
+      "cutter"
     ],
-
     [
-      "cannoneer", "shooter"
+      "cannoneer",
+      "shooter"
     ]
   ]
 }

@@ -44,11 +44,11 @@ TODO:
 
     - [ ] power
 
-	  - [ ] radiation-reactor
+	    - [ ] radiation-reactor
 	  
-	    - [ ] radiation-reactor.png
-		- [ ] radiation-reactor-lights.png
-		- [ ] radiation-reactor-top.png
+	      - [ ] radiation-reactor.png
+		    - [ ] radiation-reactor-lights.png
+		    - [ ] radiation-reactor-top.png
 
       - [x] giga-radiation-reactor
 

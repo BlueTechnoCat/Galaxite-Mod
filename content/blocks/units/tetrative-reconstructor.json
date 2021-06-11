@@ -1,25 +1,32 @@
 {
   "upgrades": [
     [
-      "scepter", "reign"
+      "scepter",
+      "reign"
     ],
     [
-      "vela", "corvus"
+      "vela",
+      "corvus"
     ],
     [
-      "arkyid", "toxopid"
+      "arkyid",
+      "toxopid"
     ],
     [
-      "antumbra", "eclipse"
+      "antumbra",
+      "eclipse"
     ],
     [
-      "quad", "oct"
+      "quad",
+      "oct"
     ],
     [
-      "sei", "omura"
+      "sei",
+      "omura"
     ],
     [
-      "chopper", "shredder"
+      "chopper",
+      "shredder"
     ]
   ]
 }
