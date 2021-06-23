@@ -28,7 +28,16 @@
           "type": "BombBulletType",
           "splashDamage": 50,
           "lifetime": 1,
-          "despawnEffect": "commandSend",
+          "despawnEffect": {
+			  "type": "WaveEffect",
+			  "lifetime": 15,
+			  "sizeFrom": 0,
+			  "sizeTo": 80,
+			  "strokeFrom": 0,
+			  "strokeTo": 10,
+			  "colorFrom": "008888",
+			  "colorTo": "00ffff"
+		  },
           "splashDamageRadius": 80,
           "status": "slow",
           "statusDuration": 900
