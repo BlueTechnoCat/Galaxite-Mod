@@ -1,5 +1,5 @@
 {
-  "type": "GenericSmelter",
+  "type": "GenericCrafter",
   "name": "Galaxite Generator",
   "description": "A machine capable of forging galaxite",
   "details": "Your greatest invention,\nwhat has the future prepared for you?",
@@ -7,6 +7,7 @@
   "health": 800,
   "hasLiquids": false,
   "itemCapacity": 20,
+  "drawer": "drawSmelter",
   "craftTime": 240,
   "consumes": {
     "power": 25,
